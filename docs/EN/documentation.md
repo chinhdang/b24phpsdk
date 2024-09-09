@@ -1,7 +1,7 @@
 bitrix24-php-sdk documentation
 =============================================
 
-## Authorisation
+## Authorization
 - use [incoming webhooks](Core/Auth/auth.md).
 - use OAuth2.0 for applications.
 
